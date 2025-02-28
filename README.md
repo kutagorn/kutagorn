@@ -22,6 +22,7 @@ I worked for [Amadeus](https://amadeus.com/en), [Softomi](https://www.linkedin.c
 
 ## You can also find more of my work at
 
+* [Fit Nutrition](https://www.fitnutrition.ist/)
 * [TicTacToe Game](https://kutagorn.github.io/Tic-Tac-Toe-Game/)
 * [Blob Runner](https://play.google.com/store/apps/details?id=com.quok.blobRunner)
 * [Control Car Run](https://play.google.com/store/apps/details?id=com.game.controlcars)
